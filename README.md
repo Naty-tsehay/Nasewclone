@@ -1,2 +1,0 @@
-# Nasewclone
-My first website
